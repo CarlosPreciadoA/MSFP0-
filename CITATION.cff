@@ -15,7 +15,7 @@ authors:
     affiliation: TecNM/ IT Tijuana
 identifiers:
   - type: url
-    value: 'https://github.com/CarlosPreciadoA/MSFP0-'
+    repository-code: 'https://github.com/CarlosPreciadoA/MSFP0-'
 keywords:
   - Circuito RLC
   - Controlador PID
