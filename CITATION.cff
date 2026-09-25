@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 0: Sistema pulmonar de segundo orden'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carlos Samuel
+    family-names: Preciado Amezquita
+    email: lc19211840@tijuana.tecnm.mx
+    name-particle: CARLOS
+    affiliation: TecNM/ IT Tijuana
+identifiers:
+  - type: url
+    value: 'https://github.com/CarlosPreciadoA/MSFP0-'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema respiratorio
+  - Modelo matemático
+  - Simulaciones numérica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-10'
